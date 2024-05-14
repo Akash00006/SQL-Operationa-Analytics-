@@ -51,3 +51,16 @@ Weekly Engagement: To measure the activeness of a user. Measuring if the user fi
 Your task: Calculate the weekly engagement per device?
 Email Engagement: Users engaging with the email service.
 Your task: Calculate the email engagement metrics?
+
+
+Use the dataset attached in the Dataset section below the project images then answer the questions that follows
+A.	User Engagement: To measure the activeness of a user. Measuring if the user finds quality in a product/service.
+Your task: Calculate the weekly user engagement?
+B.	User Growth: Amount of users growing over time for a product.
+Your task: Calculate the user growth for product?
+C.	Weekly Retention: Users getting retained weekly after signing-up for a product.
+Your task: Calculate the weekly retention of users-sign up cohort?
+D.	Weekly Engagement: To measure the activeness of a user. Measuring if the user finds quality in a product/service weekly.
+Your task: Calculate the weekly engagement per device?
+E.	Email Engagement: Users engaging with the email service.
+Your task: Calculate the email engagement metrics?
